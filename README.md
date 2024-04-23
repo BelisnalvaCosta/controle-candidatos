@@ -1,6 +1,6 @@
-# Controle de Candidatos
+# Controle de Candidatos. [^1].
 
-Projeto feito na IDEA IntelliJ, linguagem Java. [1^]. 
+Projeto feito na IDEA IntelliJ, linguagem Java.
 
 Objetivo: 
 Seleções de Candidatos, ao qual terá alguns requisitos: Localizar os candidatos pré-selecionados e analisar os candidatos também através do salário pretendido.
