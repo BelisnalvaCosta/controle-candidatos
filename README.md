@@ -1,4 +1,4 @@
-# Controle de Candidatos. [^1].
+# Controle de Candidatos [^1].
 
 Projeto feito na IDEA IntelliJ, linguagem Java.
 
@@ -15,4 +15,4 @@ Seleções de Candidatos, ao qual terá alguns requisitos: Localizar os candidat
 >"Vamos conquistando a nossa confiança a cada passo que damos, tenha esperança e nunca pare de sonhar!"
 <!--- Minhas palavras ---> 
 
-[1^]: Desafio de Projeto orientado pelo professor Gleyson Sampaio(DIO).
+[^1]: Desafio de Projeto orientado pelo professor Gleyson Sampaio(DIO).
